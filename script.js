@@ -2,7 +2,7 @@ var a;
 a = "Subway";
 
 var b;
-b = "mc"
+b = "mc "
 
 var b = a;
 
