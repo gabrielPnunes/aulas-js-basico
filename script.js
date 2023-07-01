@@ -8,7 +8,7 @@ console.log(meuCarro)
 
 
 //metodos
-var calcMedia = function () {
+var calcMedia = function ( ) {
     return (this.notas[0] + this.notas[1]) / 2;
 }
 
